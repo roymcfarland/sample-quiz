@@ -34,5 +34,5 @@ if ( correct === 5 ) {
 } else if ( correct >= 1 ) {
 	document.write('<p><strong>You earned a bronze star!</strong></p>');
 } else {
-	document.write('<p><strong>No crown for you!</strong></p>');
+	document.write('<p><strong>No star for you!</strong></p>');
 };
